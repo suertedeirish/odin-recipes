@@ -1,1 +1,46 @@
+<!DOCTYPE html>
 
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Mara's Favorite</title>
+</head>
+<body>
+  <h1>Pizza</h1>
+  <img src="images/cc.jpg" alt="Pizza">
+  <h2> Description </h2>
+  <p> This pizza is Mara's favorite as it is is rich with colorful ingrediants. The flavors create a 
+      bomb in the palate.</p>
+  <h3> Ingredients </h3>
+     <ul>
+       <li> 4 pounds of frying chicken, cut up</li>
+       <li> 3 teaspoons of olive oil</li>
+       <li> 2 butter</li>
+       <li> 1 ounce of tomato sauce</li>
+       <li> 1 ounce of whole tomatos</li>
+       <li> 3/4 cups dry red wine</li>
+       <li> 1 teaspoon of dry basil</li>
+       <li> 1 teaspoon of oregano</li>
+       <li> 1/2 teaspoon of minced garlic</li>
+       <li> 2 teaspoon of parsley</li>
+       <li> 3/4 teaspoon of salt</li>
+       <li> 1/4 teaspoon of pepper</li>
+       <li> 3 teaspoon of flour</li>
+       <li> Cooking Spray</li>
+    </ul>
+       
+  <h3>Steps </h3>
+    <ol>
+      <li>Pat dry chicken </li>
+      <li>Heat oil and butter in pan</li>
+      <li>Take out chicken and add tomato sauce </li>
+      <li>Add whole tomatoes, wine, basil, oregano, garlic, parsley, salt and pepper</li>
+      <li>Simmer covered for 45-50 minutes,until chicken is tender</li>
+      li>Combine flour with 3 teaspoons of water, stir into sauce </li>
+      <li>Cook for another 10 minutes, until sauce is thickened</li>
+            
+       
+  
+</body>
+  
+</html>
