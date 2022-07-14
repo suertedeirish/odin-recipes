@@ -7,26 +7,19 @@
 </head>
 <body>
   <h1>Pizza</h1>
-  <img src="images/cc.jpg" alt="Pizza">
+  <img src="images/pizza.jpg" alt="Pizza">
   <h2> Description </h2>
   <p> This pizza is Mara's favorite as it is is rich with colorful ingrediants. The flavors create a 
       bomb in the palate.</p>
   <h3> Ingredients </h3>
      <ul>
-       <li> 4 pounds of frying chicken, cut up</li>
-       <li> 3 teaspoons of olive oil</li>
-       <li> 2 butter</li>
-       <li> 1 ounce of tomato sauce</li>
-       <li> 1 ounce of whole tomatos</li>
-       <li> 3/4 cups dry red wine</li>
-       <li> 1 teaspoon of dry basil</li>
-       <li> 1 teaspoon of oregano</li>
-       <li> 1/2 teaspoon of minced garlic</li>
-       <li> 2 teaspoon of parsley</li>
-       <li> 3/4 teaspoon of salt</li>
-       <li> 1/4 teaspoon of pepper</li>
-       <li> 3 teaspoon of flour</li>
-       <li> Cooking Spray</li>
+       <li> 1 ready made pizza crust</li>
+       <li> 2 cups shredded mozzarella cheese</li>
+       <li> 1 cup tomato sauce</li>
+       <li> 1/2 cup chopped green bell pepper</li>
+       <li> 1/2 cup fresh sliced mushrooms</li>
+       <li> 4 cups of jalapeno</li>
+       <li> 2 cups of fried bacon</li>
     </ul>
        
   <h3>Steps </h3>
