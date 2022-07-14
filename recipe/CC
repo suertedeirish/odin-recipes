@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Nana's Forte</title>
+</head>
+<body>
+  <h1>Chicken Cacciatore</h1>
+  <img src="images/porkchop.jpg" alt="Pork Chops">
+  <h2> Description </h2>
+  <p> Chicken Cacciatore brings me back to the days of old.  My nana would whip this up in the kitchen. 
+      the smells bring me back to a foregone era.</p>
+  <h3> Ingredients </h3>
+     <ul>
+       <li> 4 boneless, center-cut pork chops, 1-inch thick</li>
+       <li> Cooking Spray</li>
+       <li> 2 teaspoons dry ranch salad dressiong mix</li>
+       <li> Aluminum Foil</li>
+     </ul>
+       
+  <h3>Steps </h3>
+    <ol>
+      <li>Place pork chops on a plate and lightly spray both sides with cooking spray. </li>
+      <li>Sprinkle both sides with ranch seasoning mix and let sit at room temperature for 10 minutes.</li>
+      <li>Spary the basket of the air fryer with cooking spary and preheat the air fryer to 390 degrees F </li>
+      <li>Place chops in the preheated air fryer</li>
+      <li>Cook for 5 minutes. Flips chops and cook for 5 minutes more.</li>
+         
+       
+  
+</body>
+  
+</html>
+
 
